@@ -8,8 +8,8 @@ For this project, we  will be working to understand the results of an A/B test r
 - Jupyter Notebook
 
 # Wrangling:
-- remove duplicates or records with missing 
-- correct rows where the landing_page and group columns don't align
+- Remove duplicates or records with missing 
+- Correct rows where the landing_page and group columns don't align
 
 # Analysis:
 - Compute probabilities of converting on both pages 
